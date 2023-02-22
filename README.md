@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ---
-CVE ID Archive：
+- CVE ID Archive：
 CVE-2022-48118(6.1), CVE-2022-48117, CVE-2022-48116(7.2)
-CNVD ID Archive：
+- CNVD ID Archive：
 CNVD-2023-07050(10.0), CNVD-2023-09184(5.0)
