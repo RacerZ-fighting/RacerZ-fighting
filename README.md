@@ -1,12 +1,6 @@
 - 👋 Hi, I’m RacerZ
 - 👀 I’m interested in JavaSec and Program Analysis
 
-<picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=RacerZ-fighting&theme=journey&pixelate_avatar=false">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=RacerZ-fighting&screen_effect=true&theme=monica">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=RacerZ-fighting&theme=journey&pixelate_avatar=false">
-</picture>
-
 <!---
 RacerZ-fighting/RacerZ-fighting is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
