@@ -1,5 +1,3 @@
-<img width="50%" align="top" src="https://github-readme-stats.vercel.app/api?username=RacerZ-fighting&theme=tokyonight&show_icons=true&hide_border=true" />
----
 - 👋 Hi, I’m RacerZ
 - 👀 I’m interested in JavaSec and Program Analysis
 <!---
@@ -21,3 +19,5 @@ You can click the Preview link to take a look at your changes.
   - https://xz.aliyun.com/t/13187 (Apache Dubbo)
   - https://xz.aliyun.com/t/13211 (Apache OFBiz)
   - https://xz.aliyun.com/t/14050 (JetBrains TeamCity)
+--- 
+<img width="50%" align="bottom" src="https://github-readme-stats.vercel.app/api?username=RacerZ-fighting&theme=tokyonight&show_icons=true&hide_border=true" />
