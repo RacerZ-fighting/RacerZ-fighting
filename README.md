@@ -15,6 +15,7 @@ You can click the Preview link to take a look at your changes.
   - CNVD-2023-07050(10.0)
   - CNVD-2023-09184(5.0)
   - CNVD-2023-13624(7.8)
+  - CNVD-2024-26533(Apache OfBiz)
 ---
 - 先知社区：
   - https://xz.aliyun.com/t/13187 (Apache Dubbo)
