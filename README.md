@@ -40,5 +40,4 @@ You can click the Preview link to take a look at your changes.
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RacerZ-fighting&hide_border=true&layout=compact&langs_count=8" height="200" />
 </picture>
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/RacerZ-fighting/langs)](https://githubtrends.io)
 
