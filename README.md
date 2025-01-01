@@ -38,4 +38,7 @@ You can click the Preview link to take a look at your changes.
           srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RacerZ-fighting&hide_border=true&layout=compact&langs_count=8&bg_color=ffffff"
           height="200" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RacerZ-fighting&hide_border=true&layout=compact&langs_count=8" height="200" />
-      </picture>
+</picture>
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/RacerZ-fighting/langs)](https://githubtrends.io)
+
