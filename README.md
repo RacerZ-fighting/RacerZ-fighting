@@ -39,6 +39,7 @@ You can click the Preview link to take a look at your changes.
           height="200" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RacerZ-fighting&hide_border=true&layout=compact&langs_count=8" height="200" />
 </picture>
-![GitHub followers](https://img.shields.io/github/followers/BreadcrumbsRacerZ-fighting?style=social)   ![GitHub User's stars](https://img.shields.io/github/stars/BreadcrumbsRacerZ-fighting?style=social)
+
+![GitHub followers](https://img.shields.io/github/followers/RacerZ-fighting?style=social)   ![GitHub User's stars](https://img.shields.io/github/stars/RacerZ-fighting?style=social)
 
 
