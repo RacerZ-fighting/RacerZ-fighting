@@ -42,4 +42,7 @@ You can click the Preview link to take a look at your changes.
 
 ![GitHub followers](https://img.shields.io/github/followers/RacerZ-fighting?style=social)   ![GitHub User's stars](https://img.shields.io/github/stars/RacerZ-fighting?style=social)
 
+## &#x1f92b; Github Visitors
+
+[![Top Langs](https://profile-counter.glitch.me/RacerZ-fighting/count.svg)](https://github.com/RacerZ-fighting)
 
