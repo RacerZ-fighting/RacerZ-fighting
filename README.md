@@ -10,6 +10,8 @@ You can click the Preview link to take a look at your changes.
   - CVE-2022-48116(7.2)
   - CVE-2024-32113(Apache OfBiz)
   - CVE-2024-38856(Apache OfBiz)
+  - CVE-2024-56511 (Dataease)
+  - CVE-2025-27138 (Dataease)
 - CNVD ID Archive：
   - CNVD-2023-07050(10.0)
   - CNVD-2023-09184(5.0)
